@@ -1,5 +1,7 @@
 # Tracksy synthetic datasets generator
 
+> ⚠️ Archived repository, the project is always maintained in the global [Tracksy repository](https://github.com/Gudsfile/tracksy).
+
 Generate test data sets to test the Tracksy application during development.
 
 Already generated datasets are available on Hugging Face : [synthetic-datasets](https://huggingface.co/datasets/tracksy-app/synthetic-datasets).
